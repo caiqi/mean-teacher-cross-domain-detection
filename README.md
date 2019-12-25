@@ -1,5 +1,5 @@
 # Exploring Object Relation in Mean Teacher for Cross-Domain Detection
-This is the implementation of CVPR 2019 '**Exploring Object Relation in Mean Teacher for Cross-Domain Detection**'. The original paper can be found [here](https://arxiv.org/pdf/1904.11245.pdf). If you find it helpful for your research, please consider citing:
+This is the implementation of CVPR 2019 '**Exploring Object Relation in Mean Teacher for Cross-Domain Detection**'. The original paper can be found [here](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cai_Exploring_Object_Relation_in_Mean_Teacher_for_Cross-Domain_Detection_CVPR_2019_paper.pdf). If you find it helpful for your research, please consider citing:
 
     @inproceedings{cai2019exploring,
       title={Exploring Object Relation in Mean Teacher for Cross-Domain Detection},
