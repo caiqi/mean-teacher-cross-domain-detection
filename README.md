@@ -1,5 +1,5 @@
 # Exploring Object Relation in Mean Teacher for Cross-Domain Detection
-This is the implementation of CVPR 2019 '**Exploring Object Relation in Mean Teacher for Cross-Domain Detection**'. The original paper can be found [here](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cai_Exploring_Object_Relation_in_Mean_Teacher_for_Cross-Domain_Detection_CVPR_2019_paper.pdf).
+This is the implementation of '**Exploring Object Relation in Mean Teacher for Cross-Domain Detection**' [CVPR 2019]. The original paper can be found [here](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cai_Exploring_Object_Relation_in_Mean_Teacher_for_Cross-Domain_Detection_CVPR_2019_paper.pdf).
 
 ## Usage
 1. Install [mxnet](https://github.com/apache/incubator-mxnet). The version we use is 1.4.0.
