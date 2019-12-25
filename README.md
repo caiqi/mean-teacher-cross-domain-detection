@@ -1,13 +1,5 @@
 # Exploring Object Relation in Mean Teacher for Cross-Domain Detection
-This is the implementation of CVPR 2019 '**Exploring Object Relation in Mean Teacher for Cross-Domain Detection**'. The original paper can be found [here](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cai_Exploring_Object_Relation_in_Mean_Teacher_for_Cross-Domain_Detection_CVPR_2019_paper.pdf). If you find it helpful for your research, please consider citing:
-
-    @inproceedings{cai2019exploring,
-      title={Exploring Object Relation in Mean Teacher for Cross-Domain Detection},
-      author={Cai, Qi and Pan, Yingwei and Ngo, Chong-Wah and Tian, Xinmei and Duan, Lingyu and Yao, Ting},
-      booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-      pages={11457--11466},
-      year={2019}
-    }
+This is the implementation of CVPR 2019 '**Exploring Object Relation in Mean Teacher for Cross-Domain Detection**'. The original paper can be found [here](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cai_Exploring_Object_Relation_in_Mean_Teacher_for_Cross-Domain_Detection_CVPR_2019_paper.pdf).
 
 ## Usage
 1. Install [mxnet](https://github.com/apache/incubator-mxnet). The version we use is 1.4.0.
@@ -17,3 +9,13 @@ This is the implementation of CVPR 2019 '**Exploring Object Relation in Mean Tea
     ```Shell
     ./train_foggy_final.sh  or ./train_sim10k_final.sh
 5. The trained models for Foggy Cityscapes and SIM-10k are available at [foggy_final](https://github.com/caiqi/mean-teacher-cross-domain-detection/releases/download/v0.1/foggy_final.params) (mAP=0.351)and [sim10k_final](https://github.com/caiqi/mean-teacher-cross-domain-detection/releases/download/v0.1/sim10k_final.params) (mAP=0.466).
+
+## Citation
+If you find this code or model useful for your research, please cite our paper:
+    @inproceedings{cai2019exploring,
+      title={Exploring Object Relation in Mean Teacher for Cross-Domain Detection},
+      author={Cai, Qi and Pan, Yingwei and Ngo, Chong-Wah and Tian, Xinmei and Duan, Lingyu and Yao, Ting},
+      booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+      pages={11457--11466},
+      year={2019}
+    }
