@@ -12,6 +12,7 @@ This is the implementation of CVPR 2019 '**Exploring Object Relation in Mean Tea
 
 ## Citation
 If you find this code or model useful for your research, please cite our paper:
+
     @inproceedings{cai2019exploring,
       title={Exploring Object Relation in Mean Teacher for Cross-Domain Detection},
       author={Cai, Qi and Pan, Yingwei and Ngo, Chong-Wah and Tian, Xinmei and Duan, Lingyu and Yao, Ting},
